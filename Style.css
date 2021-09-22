@@ -190,6 +190,7 @@ main section:first-child{
         background-color: #0065fc;
         color: white;
     }
+	
     /*Nombre de résultat*/
 		.nmbresult{
 			display: flex;
